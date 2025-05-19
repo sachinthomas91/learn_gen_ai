@@ -1,0 +1,104 @@
+# Ignore files with the .env extension
+# Ignore all .env files
+*.env
+*.venv
+# Ignore all .env files in any directory
+**/*.env
+**/*.venv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# VS Code
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+*.env
+*.venv
+**/*.env
+**/*.venv
+.envrc
+secrets.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Log files
+*.log
+
+# Private keys and credentials
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Ignore API key files
+apikey*
+*key.json
+
+# Misc
+*.swp
+*.swo
+
+# Don't ignore LICENSE, README.md, or other docs
+!LICENSE
+!README.md
