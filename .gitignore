@@ -84,6 +84,11 @@ env/
 # Log files
 *.log
 
+# Vector DB files
+chroma_langchain_db/
+chroma_ollama_db/
+.chroma/
+
 # Private keys and credentials
 *.pem
 *.key
