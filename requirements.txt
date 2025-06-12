@@ -1,9 +1,17 @@
+# Security tools
+bandit>=1.7.0
+detect-secrets>=1.4.0
+
 # Core ML and AI libraries
 torch>=2.0.0
 transformers>=4.30.0
 langchain==0.3.25
 langchain-community==0.3.24
 langchain-core==0.3.60
+langchain-text-splitters>=0.0.1
+langgraph>=0.0.1
+langchain-chroma>=0.1.0
+langchain-ollama>=0.1.0
 openai==1.79.0
 smolagents>=1.17.0
 duckduckgo-search>=4.5.0
