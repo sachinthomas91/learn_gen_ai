@@ -1,8 +1,10 @@
 # RAG with Google Gemini
 
-\This is a Streamlit applicationthat implements Retrieval-Augmented Generation (RAG) using Google's Gemini model. The application allows users to input documents through various methods (URL, PDF, or direct text) and ask questions about the content.
+This is a Streamlit application that implements Retrieval-Augmented Generation (RAG) using Google's Gemini model. The application allows users to input documents through various methods (URL, PDF, or direct text) and ask questions about the content.
 
-<img src="../../assets/gemini_rag_build.jpg" alt="RAG with Gemini Demo" width="600">
+<div align="center">
+  <img src="../../../assets/images/gemini_rag_build.jpg" alt="RAG with Gemini Demo" width="500"/>
+</div>
 
 ## Prerequisites
 

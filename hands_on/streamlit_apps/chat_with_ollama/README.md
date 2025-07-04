@@ -2,7 +2,7 @@
 
 A simple chat interface built with Streamlit for interacting with locally hosted Ollama models, specifically designed for Qwen2:7b.
 
-<img src="../../assets/images/Qwen_ollama_chatbot.jpg" width="600" alt="Qwen Ollama Chatbot Demo">
+<img src="../../../assets/images/Qwen_ollama_chatbot.jpg" width="500" alt="Qwen Ollama Chatbot Demo">
 
 ## Prerequisites
 
